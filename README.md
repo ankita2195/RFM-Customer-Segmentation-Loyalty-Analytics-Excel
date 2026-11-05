@@ -1,4 +1,4 @@
-# RFM Customer Segmentation and Loyalty Program using Excel
+# RFM Customer Segmentation and Retention Analytics using Excel
 
 ## Business Problem
 How can a business identify its most valuable customers, recognise early signs of disengagement, and turn customer purchasing behaviour into targeted strategies that drive loyalty, repeat purchases, and revenue retention?
